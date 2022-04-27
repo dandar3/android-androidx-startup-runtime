@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-startup-runtime/tags/1.0.0,androidx-startup-runtime,8053422d44c6001c1f078174d85189fc;https://github.com/dandar3/android-androidx-startup-runtime;https://github.com/dandar3/android-androidx-startup-runtime;branches;tags;trunk;true;cdaa1ff3-5e5e-8148-159b-ce57b7db7bff;https://github.com/dandar3/android-androidx-startup-runtime;;false;&lt;https://github.com:443&gt; GitHub;;0"/>
+</provider>
+</psf>
